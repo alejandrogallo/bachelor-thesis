@@ -1,0 +1,48 @@
+-------
+total points = 27180300
+total suitable points = 7978870
+total great great points = 7232416
+total great less points = 1
+total less great points = 1
+total less less points = 746452
+
+
+
+
+
+-------
+total points = 27180300
+total suitable points = 7978870
+total great great points = 7232416
+total great less points = 0
+total less great points = 0
+total less less points = 746450
+
+
+
+
+
+
+-------
+total points = 27180300
+
+total suitable points = 7978870
+   total great great points = 7232416
+   total great less points = 0
+   total less great points = 0
+   total less less points = 746450
+
+total nonsuitable points = 19201430
+   total great great points = 27693
+   total great less points = 1
+   total less great points = 1
+   total less less points = 19172505
+
+
+
+
+
+
+
+
+

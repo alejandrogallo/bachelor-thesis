@@ -1,0 +1,10 @@
+*.aux
+python/python_TFG/pure_vs_noise.pdf
+text.aux
+text.bbl
+text.blg
+text.dvi
+*.out
+*.nav
+text.toc
+

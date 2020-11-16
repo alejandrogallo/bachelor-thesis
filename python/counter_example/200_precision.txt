@@ -1,0 +1,11 @@
+total suitable points = 2142216
+   total great great points = 2142216
+   total great less points = 0
+   total less great points = 0
+   total less less points = 0
+
+total nonsuitable points = 5937984
+   total great great points = 19531
+   total great less points = 0
+   total less great points = 0
+   total less less points = 5917642
