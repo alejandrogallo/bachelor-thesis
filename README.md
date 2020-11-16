@@ -16,3 +16,17 @@ Advisors:
   ----------------------------- --------------------------
 
 September 4 2014, Bellaterra, Barcelona
+
+## Citing
+
+```bibtex
+@thesis{gallo_alejandro_2014_4276452,
+  author       = {Gallo, Alejandro},
+  title        = {About the joint measurability of observables},
+  school       = {Universitat Autònoma de Barcelona},
+  year         = 2014,
+  month        = sep,
+  doi          = {10.5281/zenodo.4276452},
+  url          = {https://doi.org/10.5281/zenodo.4276452}
+}
+```
